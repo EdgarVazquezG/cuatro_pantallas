@@ -81,7 +81,7 @@ struct VentasView: View {
                             Image(systemName: "doc.text")
                             Text("Posts")
                         }
-                        .foregroundColor(.white)
+                        .foregroundColor(.red)
                     }
                 }
             }
