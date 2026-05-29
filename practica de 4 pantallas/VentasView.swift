@@ -1,5 +1,8 @@
-//  VentasView.swift
-//  secuencia_de_pantallas
+//Roberto Uriel Alcázar Hernández
+//Jhiovani Alexander Bautista Coutiño
+//Henry Rodrigo Gordillo Villatoro
+//Edgar Adrián Vázquez González
+
 
 import SwiftUI
 
