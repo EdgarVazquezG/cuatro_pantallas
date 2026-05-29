@@ -1,9 +1,8 @@
-//
-//  LocalPostStorage.swift
-//  secuencia_de_pantallas
-//
-//  Created by Jose Daniel Espinoza Gomez on 27/03/26.
-//
+//Roberto Uriel Alcázar Hernández
+//Jhiovani Alexander Bautista Coutiño
+//Henry Rodrigo Gordillo Villatoro
+//Edgar Adrián Vázquez González
+
 import Foundation
 
 class LocalPostStorage {
