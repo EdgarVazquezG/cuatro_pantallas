@@ -1,3 +1,8 @@
+//Roberto Uriel Alcázar Hernández
+//Jhiovani Alexander Bautista Coutiño
+//Henry Rodrigo Gordillo Villatoro
+//Edgar Adrián Vázquez González
+
 import SwiftUI
 
 struct ContentView: View {
